@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 91: expected 'comma or end of line' not found.
+    transform("images/avengerl9.png", xzoom=-1)
+    ^
+
+Ren'Py Version: Ren'Py 7.4.10.2178
+Thu Nov 25 20:29:09 2021
